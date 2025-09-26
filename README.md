@@ -3,6 +3,6 @@
 
 This is normal paragraph.
 
-![An image of Cat](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgVfHORQFLyUf_rNove-xUmxIskDeMJ63REz_YIMQ6S0vCyQdkBvJos4igKspvCgpqnpy8h0xM--1uckzZIxDgyoHy37-MowkF-YzvVx8)
+![An image of Cat](https://media.tenor.com/JqY9CoDHgi8AAAAM/chiikawa-chiikawa-hachiware.gif)
 
 
