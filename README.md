@@ -1,7 +1,6 @@
 # Quiz 8
 ## scho0424_9103_tut1
 
-<<<<<<< HEAD
 ### Part 1: Imaging Technique Inspiration
 
 I found inspiration in the **layout** and **vivid color scheme** from the anime movie _The Night is Short, Walk On Girl_. 
@@ -29,6 +28,3 @@ Additionally, by making the 3D sphere appear flat as the viewpoint changes, it d
 
 ![An image of code showcasing](assets/scho0424_code_example.jpg)
 [Orbit Control Example](https://p5js.org/examples/3d-orbit-control/)
-
-=======
->>>>>>> c87cc3436af64cc431e68bd6ef5eb1af90ddf7a3
