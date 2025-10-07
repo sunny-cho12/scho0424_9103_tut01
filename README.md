@@ -1,5 +1,5 @@
 # Quiz 8
-## scho0424_9103_tut1
+## scho0424_9103_tut1 Sung Hee Cho
 
 ### Part 1: Imaging Technique Inspiration
 
@@ -28,3 +28,4 @@ Additionally, by making the 3D sphere appear flat as the viewpoint changes, it d
 
 ![An image of code showcasing](assets/scho0424_code_example.jpg)
 [Orbit Control Example](https://p5js.org/examples/3d-orbit-control/)
+
